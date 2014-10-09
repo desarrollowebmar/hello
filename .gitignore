@@ -1,0 +1,4 @@
+# Git is going to ignore these folders (Git ignorará estas carpetas a la hora de hacer cambios).
+bin/
+
+target/
